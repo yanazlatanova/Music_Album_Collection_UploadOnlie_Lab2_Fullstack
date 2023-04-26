@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yanazlatanova/Music_Album_Collection_Lab1_Fullstack.git"
+    "url": "git+https://github.com/yanazlatanova/Music_Album_Collection_UploadOnlie_Lab2_Fullstack.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yanazlatanova/Music_Album_Collection_Lab1_Fullstack/issues"
+    "url": "https://github.com/yanazlatanova/Music_Album_Collection_UploadOnlie_Lab2_Fullstack/issues"
   },
-  "homepage": "https://github.com/yanazlatanova/Music_Album_Collection_Lab1_Fullstack#readme",
+  "homepage": "https://github.com/yanazlatanova/Music_Album_Collection_UploadOnlie_Lab2_Fullstack#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
